@@ -1,9 +1,10 @@
 ### Hi there 👋
+<p align="center"><strong>Views</strong><br><img src="https://profile-counter.glitch.me/mayur-esh/count.svg" alt="Visitors">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayur-esh)](https://github.com/mayur-esh/github-readme-stats&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-esh&layout=compact)](https://github.com/mayur-esh/github-readme-stats)
-
+</p>
 <!--
 **mayur-esh/mayur-esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
